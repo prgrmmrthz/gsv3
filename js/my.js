@@ -42,5 +42,14 @@ $(document).ready(() => {
     </div>
         `);
     });// each
-  }
+  }//function list that
+
+  $(document).on({
+    ajaxStart: function(){
+        $("body").addClass("loading");
+    },
+    ajaxStop: function(){
+        $("body").removeClass("loading");
+    }
+});
 });
