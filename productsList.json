@@ -1,0 +1,106 @@
+﻿{
+    "Sheet1": [
+        {
+            "name": "Tongkat Ali Coffee",
+            "pic": "https://scontent.fmnl17-1.fna.fbcdn.net/v/t1.6435-9/240474554_123736446665389_6268135627859222074_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHLHT8zAit8Id2g925E1occn4TuEe0Jw3efhO4R7QnDd1gbD3roWfes4e3E7IgvGyv7e75JdoVbOAJBauYqCGDK&_nc_ohc=y2ll5dDi2usAX_wsY6m&_nc_ht=scontent.fmnl17-1.fna&oh=78bb3b8740766804a989ca16fe6649ef&oe=6172AB6F",
+            "price": "450.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-tongkat-ali-booster-coffee-i2153308525-s9613509775.html?spm=a2o4l.seller.list.3.48f4243dwVmb5P&mp=1"
+        },
+        {
+            "name": "Chia Seed Coffee",
+            "pic": "https://scontent.fmnl17-4.fna.fbcdn.net/v/t1.6435-9/240428793_123736136665420_4951472710989036481_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEw_-1W_9YYMvrbPBYAOvJEwEgjEk2_xZ_ASCMSTb_Fn4PZ5WrZw07nI_wr3wIMiwTm1FgwqYUSZUJCtuu98ArZ&_nc_ohc=h96mlRUThmAAX910eLp&_nc_ht=scontent.fmnl17-4.fna&oh=fe9a2b42e88be47de00664973ff83d1d&oe=6173F4A6",
+            "price": "400.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-chia-seed-coffee-herbal-appetite-suppressant-i2154396370-s9616990916.html?spm=a2o4l.10450891.0.0.33603158cfpyJN&search=store&mp=3"
+        },
+        {
+            "name": "Slimming Coffee with Collagen",
+            "pic": "https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.6435-9/240562414_123736423332058_7256659530756532478_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHARH-kPS4oa0NI9uVtSKjbrvOG8yt4YGGu84bzK3hgYV-mlhjDY9wMQn_F8pFFuoiNt2s_xiS-4A_fYFk34vqD&_nc_ohc=i-y01kVwKOMAX-HtkcW&_nc_ht=scontent.fmnl17-3.fna&oh=07dce9e747c25444129baf529d98f9c7&oe=6172FD21",
+            "price": "500.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-slimming-coffee-i2154306185-s9616463911.html?spm=a2o4l.10450891.0.0.33603158D4nx0J&search=store&mp=3"
+        },
+        {
+            "name": "Soya Coffee",
+            "pic": "https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.6435-9/240464430_123736406665393_8564654407798327887_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHpxqrFLp037q26kUdhVCIFgeXW9Kb-qbOB5db0pv6ps_12No32PZw7eLleqlMbeHUthq1XOmFkvycMk_PTTWNX&_nc_ohc=jzBWUxlxHp4AX9xgQvj&tn=k-n7cYIjQOdP-V0G&_nc_ht=scontent.fmnl17-2.fna&oh=55c28663707213961ae0faa11628d9db&oe=6172D0AC",
+            "price": "300.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-soya-coffee-i2154371856-s9617175975.html?spm=a2o4l.10450891.0.0.33603158TZYcrh&search=store&mp=3"
+        },
+        {
+            "name": "Rice Coffee",
+            "pic": "https://scontent.fmnl17-4.fna.fbcdn.net/v/t1.6435-9/241052717_123736379998729_7467705315313776698_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGGgsH2-Y8VUhxTN41ajIP2LMGq9wWS6Kcswar3BZLop-E8aejk4ifNn3_bQIqdVDybYiFMmnFj8NT8d3f_IfqC&_nc_ohc=OH_fHM5a2-EAX_7qjdn&tn=k-n7cYIjQOdP-V0G&_nc_ht=scontent.fmnl17-4.fna&oh=8f972d8d1fd93089d90969f121402454&oe=617619B1",
+            "price": "300.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-rice-coffee-instant-drink-mix-i2157469396-s9634088246.html?search=store&mp=3"
+        },
+        {
+            "name": "Serpentina Coffee",
+            "pic": "https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.6435-9/241077877_123736356665398_8806617074069959771_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHqT-dzvRNOLbxF-IjyNOwIKafg4LyVxqspp-DgvJXGq3GRsaMUZZWs3acpIpX0TCf24JYqr2qlCb6zEG7Mrebb&_nc_ohc=bA6_5YUOrm8AX-gQqND&_nc_ht=scontent.fmnl17-2.fna&oh=0633feca7fe900ca83af9065d8ec6bb9&oe=61741375",
+            "price": "350.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-coffee-serpentina-herbal-blend-instant-drink-mix-i2207033928-s9922347998.html?spm=a2o4l.10450891.0.0.33603158MhYbAv&search=store&mp=3"
+        },
+        {
+            "name": "Purple Corn Coffee",
+            "pic": "https://scontent.fmnl17-1.fna.fbcdn.net/v/t1.6435-9/240497688_123736303332070_7684523179198847704_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFJSnht1aFQWLiAxYuCS0DXL-w2dltX-EQv7DZ2W1f4RLo1puTwu43W37wmT7KdyVFI-l6YY-Nse9kGrq_c0bfq&_nc_ohc=S6YDk8tBySMAX96-jCC&_nc_ht=scontent.fmnl17-1.fna&oh=570540860b1ac51a192dc781a5d5870c&oe=617380CB",
+            "price": "350.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-coffee-purple-corn-coffee-herbal-drink-mix-i2206769245-s9920420751.html?spm=a2o4l.10450891.0.0.33603158xYKwac&search=store&mp=3"
+        },
+        {
+            "name": "Mangosteen Moringa Coffee",
+            "pic": "https://scontent.fmnl17-4.fna.fbcdn.net/v/t1.6435-9/241293904_123736286665405_1810751131140444873_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGBrygiS1Swl3ymKOr-S2dmBEjXXIRH_hkESNdchEf-GWRq1bgVaQZNITd0D2ZdryRjHsfUIDwUUVNoZQnL3Xsn&_nc_ohc=BdcHlj31VAcAX99Pkdj&_nc_ht=scontent.fmnl17-4.fna&oh=5fefdc9c4d236cdd744a2dbc7d57263f&oe=61739441",
+            "price": "300.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-coffee-mangosteen-and-moringa-coffee-instant-coffee-mix-i2206702695-s9920491874.html?spm=a2o4l.seller.list.3.3ae9243d5MrTBe&mp=1"
+        },
+        {
+            "name": "Mangosteen Guyabano Coffee",
+            "pic": "https://scontent.fmnl17-4.fna.fbcdn.net/v/t1.6435-9/240960085_123736269998740_8041177692968533592_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHfsveN-C6N6_Pa6B-wz6z-O-nvY3wI6pY76e9jfAjqluBeBr53SS_g6JwtPl1SkebwWfvN89lx7DaCg9k4ZqQs&_nc_ohc=nMLg6wkrPvQAX9nRq0w&tn=k-n7cYIjQOdP-V0G&_nc_ht=scontent.fmnl17-4.fna&oh=93f4f6ae61b68f289061eb61935cb629&oe=61728FAA",
+            "price": "350.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-coffee-mangosteen-guyabano-coffee-instant-coffee-mix-i2206805031-s9921897554.html?spm=a2o4l.seller.list.17.3ae9243dXngmq9&mp=1"
+        },
+        {
+            "name": "Insulin Coffee",
+            "pic": "https://scontent.fmnl17-1.fna.fbcdn.net/v/t1.6435-9/240943981_123736223332078_6311165848818166576_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEc3vMEuVPh02vaFm3hugW2RqBAEePSqFRGoEAR49KoVCG_lR2-P0TY2iid5QETEYNHUK6hfzzusgwQDw8i2hJP&_nc_ohc=Cl2tZjD5HtEAX-I9DX9&_nc_ht=scontent.fmnl17-1.fna&oh=7fa4bedeb745beb1c6d414bce77b36d3&oe=6172F094",
+            "price": "350.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-coffee-insulin-coffee-herbal-drink-instant-mix-i2206738374-s9920291721.html?spm=a2o4l.seller.list.23.3ae9243dHaNTZO&mp=1"
+        },
+        {
+            "name": "Green Coffee",
+            "pic": "https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.6435-9/240580790_123736216665412_4672085951710128174_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGqGhOY3ppXUOEenJn_UY7Bjr7vEjcM_daOvu8SNwz91v4yfHBWNQ_IhqxQa14skS2lN8xUXB0cfOW9oFrr860l&_nc_ohc=lZ72pBUnFnYAX89Jcit&_nc_oc=AQnKQhuLS4DODo28X29YAB2DzfOYKMfRArsxXHuCYo1dilm2sxLuJSbt_rtE2LHtlyM&_nc_ht=scontent.fmnl17-3.fna&oh=432bb8f0b4e90de46bab0f2c1cd21e42&oe=61750FBE",
+            "price": "350.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-coffee-green-coffee-herbal-dietary-drink-i2206957700-s9922108345.html?spm=a2o4l.seller.list.15.3ae9243djH1nuU&mp=1"
+        },
+        {
+            "name": "Glutathione Coffee",
+            "pic": "https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.6435-9/240486636_123736189998748_738578836132673419_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGJkQE9c_ESn5RiPKARfUJLgF5uZj547wSAXm5mPnjvBDaJz6SqpG8gbsrLNoWtJ4rWJBw-HR3YPHdwR5JNXn_C&_nc_ohc=r2L0Co5SE_YAX8EGwio&_nc_ht=scontent.fmnl17-3.fna&oh=ac498b7c3e3f5fe18e13b99eac27f786&oe=61751E93",
+            "price": "500.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-coffee-glutathione-coffee-i2206769268-s9920492676.html?spm=a2o4l.seller.list.11.3ae9243dDYFffl&mp=1"
+        },
+        {
+            "name": "Collagen Coffee",
+            "pic": "https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.6435-9/240603744_123736153332085_6026111037290524088_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeF4CDgiF34W9YiR05olyTkArgXfYSIHiaeuBd9hIgeJp9FBq1U9ZtQ8YfU3lYMtoX3ayc-LudQBK8NY8Jahz6ex&_nc_ohc=-_NOpiWTJGUAX9Bo_-L&_nc_ht=scontent.fmnl17-3.fna&oh=bf9bc44e357f5a904a7f2e2c3057d800&oe=61727836",
+            "price": "350.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-collagen-coffee-herbal-drink-mix-i2157270386-s9633133346.html?spm=a2o4l.seller.list.49.5035243dWQZ4QI&mp=1"
+        },
+        {
+            "name": "Choco Healthy Drink",
+            "pic": "https://scontent.fmnl17-1.fna.fbcdn.net/v/t1.6435-9/240545942_123736119998755_2900358773280119813_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeF4ojR2ZDX7cpm6r2fweBr2NTkZ4rMYPvQ1ORnisxg-9A_jpxzpn5G7kuDBhaxP3D1ugRyXDeEAunLovQCG6JHh&_nc_ohc=v55UxE-aawcAX8o2bxo&_nc_ht=scontent.fmnl17-1.fna&oh=0e9a7ba48a588f062d83ecbe68872ebc&oe=6174FCF8",
+            "price": "250.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-choco-healthy-drink-instant-drink-mix-i2157525778-s9634800476.html?spm=a2o4l.10450891.0.0.33603158r2I8r3&search=store&mp=3"
+        },
+        {
+            "name": "Café de Emperor",
+            "pic": "https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.6435-9/240508279_123736073332093_6237983989641420434_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHdYLp6G0Jl3P3w7vjSexJKSoJ0zx6sLbhKgnTPHqwtuN9EUrMV35ro6N6wCrOPv3zsOH0o_Cm5YsL05YMoSmo-&_nc_ohc=EegQUcuXfOYAX_4GGwT&_nc_ht=scontent.fmnl17-3.fna&oh=4959a2a941a336471001d447deff69fb&oe=61739FE7",
+            "price": "300.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-cafe-de-emperor-herbal-blend-instant-drink-mix-i2157606237-s9634716304.html?spm=a2o4l.searchlist.list.5.56b55474wsvMzH&search=1"
+        },
+        {
+            "name": "Advance Coffee",
+            "pic": "https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.6435-9/240897460_123736046665429_1387087767303090728_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGe4DAfXvvz5GYD4hvs6iNE103OP8DlnxjXTc4_wOWfGEQx88zTbapnvy294ogbwav1fONBlCc5IBzHjDuwIcRW&_nc_ohc=l0cgiXyJuScAX_drAc3&tn=k-n7cYIjQOdP-V0G&_nc_ht=scontent.fmnl17-3.fna&oh=1bf29e01e672240fcd7ef6c08324d5cf&oe=61726A96",
+            "price": "300.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-advance-coffee-instant-drink-mix-i2206768216-s9920338731.html?spm=a2o4l.seller.list.1.3ae9243d0vXn6e&mp=1"
+        },
+        {
+            "name": "10 in 1",
+            "pic": "https://scontent.fmnl17-1.fna.fbcdn.net/v/t1.6435-9/241359263_123736036665430_3758258068840916353_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFmsoLwSf1EinqaJz5F93Wzm9O3RuY0uEOb07dG5jS4Qw_IBQboXsfs-LZZTWJjeGXSE_GhzjsWMiuGBLIBHgjL&_nc_ohc=JrLq25z7VsAAX-7CFMy&_nc_ht=scontent.fmnl17-1.fna&oh=18b0286771bd6bc1a59d122687f429ab&oe=6174294B",
+            "price": "300.00",
+            "link": "https://www.lazada.com.ph/products/golden-seed-10-in-1-premium-coffee-drink-mix-i2157453403-s9634093089.html?spm=a2o4l.seller.list.7.3ae9243dilzKff&mp=1"
+        }
+    ]
+}
