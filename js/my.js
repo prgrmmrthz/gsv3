@@ -20,25 +20,19 @@ $(document).ready(() => {
       var p_price = $(this).data("p_price");
       var p_link = $(this).data("p_link");
       var p_pix = $(this).data("p_pix");
+      var p_ingredients = $(this).data("p_ingredients");
+      var p_benefits = $(this).data("p_benefits");
       //console.debug(x);
       $(".p-name").text(p_name);
+      $(".p-benefits").text(p_benefits);
       $(".p-price").text("₱" + Number(p_price).toFixed(2));
       $(".p-link").attr("href", p_link);
       $(".p-pix").attr("src", p_pix);
 
       $("#ingredients").append(`<small>
-        •Non-Dairy Creamer •premium coffee powder •tongkat ali •saw palmetto •moringa •ginseng •guyabano •barley grass •acai berry •grapeseed •agaricus mushroom
+        ${p_ingredients}
             </small>
         `);
-      const a = [
-        "Afghanistan;",
-        "Åland Islands;",
-        "Albania;",
-        "Algeria;",
-        "American Samoa;",
-        "Andorra;",
-        "Angola;",
-      ];
       $(".p-pix").attr("src", p_pix);
       //console.debug("currentIndex", currentIndex);
     } catch (err) {
@@ -115,6 +109,7 @@ $(document).ready(() => {
             <a class="btn btn-outline-dark mt-auto viewDetails" data-p_key="${key}"
             data-p_name="${value.name}" data-p_price="${value.price}"
             data-p_link="${value.link}" data-p_pix="${value.pic}"
+            data-p_ingredients="${value.Ingredients}" data-p_benefits="${value.Benefits}"
              data-bs-toggle="modal" data-bs-target="#detailsModal"
                 >Details</a
             >
