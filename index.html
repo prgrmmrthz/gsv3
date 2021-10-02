@@ -129,7 +129,7 @@
                   <div class="container px-4 px-lg-5 my-5">
                       <div class="row gx-4 gx-lg-5 align-items-center">
                           <div class="col-md-6"><img class="p-pix card-img-top mb-5 mb-md-0" src="https://dummyimage.com/600x700/dee2e6/6c757d.jpg" alt="..." /></div>
-                          <div class="col-md-6">
+                          <div id="itemdet" class="col-md-6">
                               <!-- <div class="small mb-1">SKU: BST-498</div> -->
                               <h1 class="p-name display-5 fw-bolder">Shop item template</h1>
                               <div class="fs-5 mb-5">
@@ -137,21 +137,27 @@
                                   <span class="p-price">₱40.00</span>
                               </div>
                               <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium at dolorem quidem modi. Nam sequi consequatur obcaecati excepturi alias magni, accusamus eius blanditiis delectus ipsam minima ea iste laborum vero?</p>
-                              <div class="d-flex">
-                                  <!-- <input class="form-control text-center me-3" id="inputQuantity" type="num" value="1" style="max-width: 3rem" /> -->
-                                  <a class="p-link btn btn-outline-dark flex-shrink-0" target="_blank" href="#">
-                                      <i class="bi-cart-fill me-1"></i>
-                                      Buy Now!
-                                  </a>
+
+                              <div>
+                                  <h5>Ingredients</h5>
+                                  <div id="ingredients" class="d-inline-flex p-2">
+
                                   </div>
                               </div>
+
+
                           </div>
                       </div>
                   </div>
-              </section>
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                  <div class="row justify-content-between">
+                    <div class="col-4">
+                      <button type="button" class="prev btn btn-link">&lt; Previous</button>
+                    </div>
+                    <div class="col-4">
+                      <button type="button" class="next btn btn-link">Next &gt;</button>
+                    </div>
+                  </div>
+                </section>
           </div>
         </div>
       </div>
